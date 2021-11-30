@@ -2,6 +2,8 @@
 
 This project was built by using React JS, this is a very simple app for practicing Axios fetch API, React Hook... for beginners.
 
+[![Screen-Shot-2021-11-30-at-16-10-43.png](https://i.postimg.cc/s26wG9Ww/Screen-Shot-2021-11-30-at-16-10-43.png)](https://postimg.cc/8Fvhqvt6)
+
 ## Installation 🚀
 
 Use the package manager [npm/yarn](https://pip.pypa.io/en/stable/) to install .
