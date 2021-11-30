@@ -39,4 +39,4 @@ Please make sure to update tests as appropriate.
 
 ## License. 💞️ 
 [Wynne Tran](https://github.com/Wynne-Tran)
-![image](https://user-images.githubusercontent.com/63073395/144142620-a0a4247d-9133-440a-bc70-1ba66c0a6d3f.png)
+
