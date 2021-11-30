@@ -4,6 +4,9 @@ This project was built by using React JS, this is a very simple app for practici
 
 [![Screen-Shot-2021-11-30-at-16-10-43.png](https://i.postimg.cc/s26wG9Ww/Screen-Shot-2021-11-30-at-16-10-43.png)](https://postimg.cc/8Fvhqvt6)
 
+## Explaination 👋 
+In this project, we will fetch the weather data api of Toronto city, then we diplay some state like: current weather details sush as celius degree, weekday, timezone, weather current describe, and we display the forecast weather for the next 5 days. We also display the icons that we fetch from website for current day and the next 5 days as well.
+
 ## Installation 🚀
 
 Use the package manager [npm/yarn](https://pip.pypa.io/en/stable/) to install .
